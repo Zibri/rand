@@ -6,7 +6,7 @@ It's useful for testing video compressors or effects.
 But can be useful for anything.
 
 P.S.
-The source can be optimezed even more and gain far better speeds.
+The source can be optimized even more and gain far better speeds.
 You are free to contribute.
 
 Some comparisons:
