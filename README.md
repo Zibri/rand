@@ -1,5 +1,5 @@
 # rand
-Fastest streaming (stdout) random generator
+Streaming (stdout) random generator
 
 This is just a quick & dirty code to generate a random stream of data fastly.
 It's useful for testing video compressors or effects.
